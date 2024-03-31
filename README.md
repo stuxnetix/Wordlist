@@ -1,4 +1,5 @@
 # Wordlist
-Wordlists for fuzzing anything
+Wordlists for fuzzing anything// 
+<!>
 Словари для фаззинга или изучения директорий , файлов различных структур. 
 Информация взята с открытого доступа.
